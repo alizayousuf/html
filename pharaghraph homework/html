@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>my home page</title>
+</head>
+<body>
+<h1>welcome to my home page</h1> 
+<h2>about me</h2>
+<p>hello. my name is aliza. i love coding.</p>
+<h2>my hobbies</h2>
+<p>i like coding,playing football,solving math problems.</p>
+<h2>my favorate food</h2>
+<p>i love biryani it is is tasty and my family loves it too. </p>
+</body>
+</html>
