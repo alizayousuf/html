@@ -1,0 +1,35 @@
+body{
+background-color: blue;
+}
+#tk{    
+    color: yellow;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 3px 3px orange;
+    text-align: center;
+}
+.p1{
+color: aqua;
+font-style: italic;
+text-transform: capitalize;
+font-size: 30px;
+text-align: center;
+}
+.super{
+    color: darkred;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+}
+.power{
+    color: lightgreen;
+    font-weight: bold;
+    text-align: center;
+}
+.week{
+    color: brown;
+    text-decoration: line-through;
+    text-align: center;
+    transform: rotate(25deg); 
+}
